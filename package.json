@@ -1,6 +1,6 @@
 {
   "name": "2bored2wait",
-  "version": "3.3.0",
+  "version": "4.0.0",
   "description": "A proxy to wait out 2b2t.org's way too long queue.",
   "main": "main.js",
   "scripts": {
@@ -35,10 +35,10 @@
     "minecraft-protocol": "^1.35.1",
     "mineflayer-antiafk": "^1.1.1",
     "node-json-minify": "^3.0.0",
+    "node-notifier": "^10.0.1",
     "open": "^8.0.7",
     "particles.js": "^2.0.0",
-    "rss-parser": "^3.12.0",
-    "node-notifier": "^10.0.1"
+    "rss-parser": "^3.12.0"
   },
   "devDependencies": {
     "nexe": "^4.0.0-beta.18"
